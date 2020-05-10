@@ -22,7 +22,7 @@ class MyHomePage extends StatelessWidget {
       appBar: AppBar(
         title: Text('I am Rich'),
         centerTitle: true,
-        backgroundColor: Colors.blueGrey[900],
+        backgroundColor: Colors.blueGrey[800],
       ),
       body: Center(
         child: Image.asset('images/diamond.png'),
